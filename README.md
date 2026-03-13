@@ -48,4 +48,4 @@ I specialize at the intersection of **Quantitative Analysis** and **Macroeconomi
 [![SNS.ID](https://img.shields.io/badge/-SNS.ID-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://www.sns.id/domain/garrettbullish)
 
 ---
-> **"Leverage is a double-edged sword; I spend my time sharpening the handle."**
+> **"Leverage is a double-edged sword; one bleeds to sharpen."**
