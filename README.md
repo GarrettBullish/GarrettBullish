@@ -7,11 +7,11 @@
 ---
 
 ### 🏛️ Investment Thesis
-I specialize at the intersection of **Quantitative Analysis** and **Macroeconomics**. My work focuses on building robust systems for futures trading, managing leveraged risk, and modeling economic volatility. I view code as a tool for capital efficiency and data as the ultimate hedge.
+I specialize at the intersection of **Quantitative Analysis** and **Macroeconomics**. My work focuses on exploiting the gaps in understanding between evolving futures markets and cutting edge trading systems, managing leveraged risk, and modeling economic volatility. I learn, practice and teach as I accumulate capital efficiency and data as the ultimate hedge.
 
-- **Current Focus:** High-frequency algorithmic execution and systemic risk modeling.
+- **Current Focus:** High-stakes fundamentals and systemic risk modeling.
 - **Philosophy:** Long-term conviction, short-term adaptability. 
-- **Core Edge:** Bridging the gap between raw economic theory and executable code.
+- **Core Edge:** Bridging the gap between raw economic theory and derivatives.
 
 ---
 
