@@ -42,9 +42,10 @@ I specialize at the intersection of **Quantitative Analysis** and **Macroeconomi
 
 ---
 
-### 📡 Terminal Access
-[![Terminal](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GarrettBullish)
+### 📡 Public Addresses
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GarrettBullish)
 [![Email](https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garrett@bullish.com)
+[![SNS.ID](https://img.shields.io/badge/-SNS.ID-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://www.sns.id/testing)
 
 ---
 > **"Leverage is a double-edged sword; I spend my time sharpening the handle."**
