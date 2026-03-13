@@ -1,6 +1,6 @@
-# 📈 GarrettBullish
+# GarrettBullish
 
-### Quant | Macro Economist | Derivatives Strategist
+### Quant | Macro Economist | Derivatives Strategium
 
 "In an efficient market, alpha is found in the edge cases."
 
