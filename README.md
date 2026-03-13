@@ -15,7 +15,7 @@ I specialize at the intersection of **Quantitative Analysis** and **Macroeconomi
 
 ---
 
-### 🛠️ The Quantitative Stack
+### 🛠️ My Preferred Languages 
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
