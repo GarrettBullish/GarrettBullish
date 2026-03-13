@@ -6,7 +6,7 @@
 
 ---
 
-### ME
+### 🏦 Exec
 I specialize at the intersection of **Quantitative Analysis** and **Macroeconomics**. My work focuses on exploiting the gaps in understanding between evolving futures markets and cutting edge trading systems, managing leveraged risk, and modeling economic volatility. I learn, practice and teach as I accumulate capital efficiency and data as the ultimate hedge.
 
 - **Current Focus:** High-stakes fundamentals and systemic risk modeling.
