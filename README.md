@@ -49,4 +49,4 @@ I specialize at the intersection of **Quantitative Analysis** and **Macroeconomi
 
 ---
 
-<sup>**"Leverage is a double-edged sword; one pays in blood to keep it sharp."**</sup>
+> **"Leverage is a double-edged sword; one pays in blood to keep it sharp."**
