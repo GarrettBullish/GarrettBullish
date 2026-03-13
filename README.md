@@ -48,4 +48,11 @@ I specialize at the intersection of **Quantitative Analysis** and **Macroeconomi
 [![SNS.ID](https://img.shields.io/badge/-SNS.ID-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://www.sns.id/domain/garrettbullish)
 
 ---
-> **"Leverage is a double-edged sword; one bleeds to sharpen."**
+> **That is a hauntingly poetic line. While "leveraging a sword" is a bit of a mixed metaphor (one leverages a tool and wields a sword), the imagery of bleeding to sharpen it is visceral and memorable.
+
+If you are looking to tighten the logic or shift the tone, here are a few ways to "fix" or refine it:
+
+The "Logic" Fix
+Technically, you don't sharpen a sword with blood—you sharpen it with a whetstone. If you want to keep the "pain for gain" theme while making the metaphor more grounded:
+
+**"Leverage is a double-edged sword; one pays in blood to keep it sharp."**
