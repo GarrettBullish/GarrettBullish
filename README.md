@@ -26,7 +26,7 @@ I specialize at the intersection of **Quantitative Analysis** and **Macroeconomi
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Github
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=GarrettBullish&show_icons=true&theme=calm&hide_border=true&count_private=true" alt="Garrett's GitHub Stats" />
